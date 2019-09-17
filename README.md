@@ -24,9 +24,8 @@ small dataset to generalize upon, if trained from scratch. Since we are using **
 This dataset is a very small subset of imagenet.
 
 .. Note ::
-   Download the data from
-   `here <https://download.pytorch.org/tutorial/hymenoptera_data.zip>`_
-   and extract it to the current directory.
+   Download the data from  [here](https://download.pytorch.org/tutorial/hymenoptera_data.zip )
+ and extract it to the current directory.
 
 And open the notebook by typing in `jupyter notebook` in the root directory. Install it [here](http://jupyter.readthedocs.io/en/latest/install.html) if you haven't  . 
 
